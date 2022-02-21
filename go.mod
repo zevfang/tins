@@ -1,1 +1,1 @@
-module "tins"
+module "github.com/zevfang/tins"
